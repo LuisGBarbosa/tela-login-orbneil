@@ -17,4 +17,6 @@ O JavaScript no projeto, foi usado apenas para fazer algumas validações básic
           
 Todos os ícones usados no projeto estão no repositório.
 
+![tela-login-inicio](https://user-images.githubusercontent.com/73610225/229943002-0c99143c-0d89-41a4-9a62-5773c0e94ae8.png)
+
 
